@@ -1,7 +1,6 @@
-# supertrend_telegram_bot
-This bot can sends Supertrend signals of selected crypto/stock symbols as a Telegram message
+⚠️ First of all this project and the bot created after this project just doesn't include any financial advice. The bot created after this project just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message.
 
-In this project there is two different Python scripts for crypto market and stock market. You can use which one you want to work with. 
+In this project there is two different Python scripts for crypto market and stock market. You can use which one you want to work with.
 
 USAGE:
 
@@ -11,8 +10,6 @@ If you have a Tradingview account, you can fill specified parts in the script ab
 
 I recommend writing maximum of 12 symbols to avoid getting a limit error for using without a Tradingview account. If you want use it with more symbols, you can do this with another for loop and another symbol list. But don't overdo it.
 
-Don't forget to modify the symbol list to your favourites symbols. 
-
-And finally this is not financial advice. This bot just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message. 
+And finally don't forget to modify the symbol list to your favourites symbols.
 
 ✌️
