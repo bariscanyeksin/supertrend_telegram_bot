@@ -15,4 +15,4 @@ Don't forget to modify the symbol list to your favourites symbols.
 
 And finally this is not financial advice. This bot just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message. 
 
-Enjoy.
+✌️
