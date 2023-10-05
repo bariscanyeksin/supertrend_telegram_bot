@@ -11,4 +11,8 @@ If you have a Tradingview account, you can fill specified parts in the script ab
 
 I recommend writing maximum of 12 symbols to avoid getting a limit error for using without a Tradingview account. If you want use it with more symbols, you can do this with another for loop and another symbol list. But don't overdo it.
 
-And finally don't forget to modify the symbol list to your favourites symbols. 
+Don't forget to modify the symbol list to your favourites symbols. 
+
+And finally this is not financial advice. This bot just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message. 
+
+Enjoy.
