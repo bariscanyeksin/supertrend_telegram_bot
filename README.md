@@ -3,7 +3,8 @@ This bot can sends Supertrend signals of selected crypto/stock symbols as a Tele
 
 In this project there is two different Python scripts for crypto market and stock market. You can use which one you want to work with. 
 
-Usage:
+USAGE:
+
 After you create a Telegram bot with BotFather, you should fill telegram_bot_token and telegram_chat_id parts in the script correctly.
 
 If you have a Tradingview account, you can fill specified parts in the script about that. If you do that, bot will work better and you won't get possible limit errors.
