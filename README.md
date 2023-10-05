@@ -1,4 +1,4 @@
-⚠️ First of all this project and the bot created after this project just doesn't include any financial advice. The bot created after this project just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message.
+⚠️ First of all this project and the bot created after this project doesn't include any financial advice. The bot created after this project just scan selected crypto/stock symbols for Supertrend indicator and send signals as a Telegram message.
 
 In this project there is two different Python scripts for crypto market and stock market. You can use which one you want to work with.
 
