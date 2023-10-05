@@ -4,7 +4,7 @@ In this project there is two different Python scripts for crypto market and stoc
 
 ⚡ Running these scripts automatically and regularly in a cloud (e.g. AWS) is the most efficient outcome of this project.
 
-USAGE:
+❓ USAGE:
 
 After you create a Telegram bot with BotFather, you should fill telegram_bot_token and telegram_chat_id parts in the script correctly.
 
