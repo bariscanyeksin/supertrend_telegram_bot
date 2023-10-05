@@ -2,7 +2,7 @@
 
 In this project there is two different Python scripts for crypto market and stock market. You can use which one you want to work with.
 
-⚡Ensuring that these scripts run automatically and regularly in a cloud (e.g. AWS) is the most efficient outcome of this project.
+⚡Ensuring that these scripts run automatically and regularly in a cloud (e.g. AWS) is the most efficient way of work of this project.
 
 ❓ USAGE:
 
